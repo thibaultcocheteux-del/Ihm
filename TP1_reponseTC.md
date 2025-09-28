@@ -68,3 +68,9 @@ Affordance : un objet doit suggérer son usage par sa forme ou son apparence.
 Donc pour un bouton celui-ci doit suggerer à l'utilisateur d'appuyer dessus, pour ce faire on peut ajouter une intéraction en mode prototype, ajouter un micro-signal visuel (flèche) ou bien modifier le style visuel de celui-ci.
 
 Pour ma part j'ai opter pour l'interaction en mode prototype ainsi que la modification de son style visuel.
+
+## Lien vers le prototype Figma
+
+Mon projet Figma est accessible ici : https://www.figma.com/design/K9Fra7ngy83soNM2ZpNfca/TP-1-TC?node-id=1-4&t=Wxkh1QTbvZLZot32-1
+
+
