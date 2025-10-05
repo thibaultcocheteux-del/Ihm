@@ -71,6 +71,6 @@ Pour ma part j'ai opter pour l'interaction en mode prototype ainsi que la modifi
 
 ## Lien vers le prototype Figma
 
-Mon projet Figma est accessible ici : https://www.figma.com/design/K9Fra7ngy83soNM2ZpNfca/TP-1-TC?node-id=1-4&t=Wxkh1QTbvZLZot32-1
+Mon projet Figma est accessible ici : https://www.figma.com/design/744cQqCrLUPFj7i2CJmjOH/NBA-APP?node-id=0-1&p=f&t=AP58JqlNWOGO7plE-0
 
 
