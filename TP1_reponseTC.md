@@ -15,7 +15,7 @@ Un besoin utilisateur est une exigence fonctionnelle ou non fonctionnelle exprim
 dans un contexte d'usage donné.
 
 Le(s) besoins utilisateurs auquel(s) je réponds sont :
--un passioné de la NBA souhaite connaître la date des futures confrontations de la ligue.
+-un novice qui souhaite découvrir & suivr la NBA
 
 ### Question 2
 
